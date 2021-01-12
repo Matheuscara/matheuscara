@@ -13,7 +13,7 @@ Olá, me chamo Matheus Dias, desenvolvedor Front-End 🚀.
   
 **Algumas Coisas sobre min:**
 
-- 👨🏽‍💻 Atualmente estou trabalhando em algo legal :wink:;
+- 👨🏽‍💻 Atualmente estou trabalhando em algo legal;
 - 🌱 Estou sempre buscando conteudo sobre React; 
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
