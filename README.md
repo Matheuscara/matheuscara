@@ -7,7 +7,7 @@
 
 <br />
 
-Olá, me chamo Matheus Dias, desenvolvedor Front-End 🚀.
+Olá, me chamo Matheus Dias, sou um desenvolvedor Front-End Junior 🚀.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
