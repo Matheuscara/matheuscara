@@ -1,4 +1,4 @@
-### Hey there 
+ ###Olá Amigo
 </a>
 </a>
 <a href="https://www.linkedin.com/in/matheusdiascara/">
@@ -11,7 +11,7 @@ Olá, me chamo Matheus Dias, desenvolvedor Front-End 🚀.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**Algumas Coisas sobre min:**
 
 - 👨🏽‍💻 Atualmente estou trabalhando em algo legal :wink:;
 - 🌱 Estou sempre buscando conteudo sobre React; 
@@ -27,21 +27,5 @@ CSS         █▓░░░░░░░░░░░░░░░░░░░░�
 MYSQL       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 <!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,886 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 524 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
 
 
