@@ -9,7 +9,7 @@
 
 Olá, me chamo Matheus Dias, sou um desenvolvedor Front-End Junior 🚀.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="350" />
   
 **Algumas Coisas sobre min:**
 
@@ -20,11 +20,11 @@ Olá, me chamo Matheus Dias, sou um desenvolvedor Front-End Junior 🚀.
 📊 **Nesta semana passei meu tempo com:**
 <!--START_SECTION:waka-->
 ```text
-Javascript  ██████████████░░░░░░░░░░░   56.40 % 
-Puppeteer   ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-REACT       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-CSS         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-MYSQL       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+ReactJS      ██████████████░░░░░░░░░░░   56.40 % 
+NodeJS       ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+NextJS       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Material-Ui  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+MongoDB        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 <!--END_SECTION:waka-->
 
