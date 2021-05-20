@@ -1,18 +1,11 @@
 
 First Header  | Second Header
 ------------- | -------------
-## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> | 💬 Sou um cara legal - De acordo com o manual dos humanos.
+## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
 
-
-
-
-
-
+ 💬 Sou um cara legal - De acordo com o manual dos humanos.
 <!-- > Faça uma breve aprensentação sobre você e a sua área. -->
-
 <!-- 🔭 Flutter - . -->
-
-
 ----
 ## 🚀 Minhas Skills
 
@@ -41,7 +34,6 @@ First Header  | Second Header
 <code><img height="32" src="https://airbnb.io/img/projects/lottie-docs.png" alt="React"/></code>
 <code><img height="32" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="React"/></code>
 
-## ⭐ Informações sobre minha conta 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
+
 
