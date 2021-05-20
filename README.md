@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Matheus Dias}!</strong>
+## 💜 Olá, meu nome é <strong>Matheus Dias!</strong>
 
 <!-- > Faça uma breve aprensentação sobre você e a sua área. -->
 
