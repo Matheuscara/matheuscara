@@ -1,15 +1,17 @@
 
 ## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> | 
-
  💬 Sou um cara legal - De acordo com o manual dos humanos. | 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
+
 <!-- > Faça uma breve aprensentação sobre você e a sua área. -->
 <!-- 🔭 Flutter - . -->
 ----
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>| 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 
 ## :sparkles: Front-End
 
