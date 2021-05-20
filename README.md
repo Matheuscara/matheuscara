@@ -5,7 +5,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
 
 <p align="left">
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/matheusdiascara/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdiascara/" /></a>
 
   <a href="#" alt="WhatsApp">
