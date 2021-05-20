@@ -1,16 +1,15 @@
 
-First Header  | Second Header
-------------- | -------------
-## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
+## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> | 
 
- 💬 Sou um cara legal - De acordo com o manual dos humanos.
+ 💬 Sou um cara legal - De acordo com o manual dos humanos. | 
 <!-- > Faça uma breve aprensentação sobre você e a sua área. -->
 <!-- 🔭 Flutter - . -->
 ----
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>| 
 
 ## :sparkles: Front-End
 
@@ -33,7 +32,6 @@ First Header  | Second Header
 <code><img height="32" src="https://www.tpisoftware.com/tpu/File/html/202009/20200929151429/images/20200926171128.png" alt="React"/></code>
 <code><img height="32" src="https://airbnb.io/img/projects/lottie-docs.png" alt="React"/></code>
 <code><img height="32" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="React"/></code>
-
 
 
 
