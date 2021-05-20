@@ -19,7 +19,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://img.icons8.com/color/452/material-ui.png" alt="React"/></code>
 <code><img height="32" src="https://www.tpisoftware.com/tpu/File/html/202009/20200929151429/images/20200926171128.png" alt="React"/></code>
-<code><img height="32" src="https://www.tpisoftware.com/tpu/File/html/202009/20200929151429/images/20200926171128.png" alt="React"/></code>
 <code><img height="32" src="https://airbnb.io/img/projects/lottie-docs.png" alt="React"/></code>
 
 ## :thought_balloon: Back-End
