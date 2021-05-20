@@ -1,6 +1,6 @@
 
-## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> | 
- 💬 Sou um cara legal - De acordo com o manual dos humanos. | 
+## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> 
+ 💬 Sou um cara legal - De acordo com o manual dos humanos.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
 
