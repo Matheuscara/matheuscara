@@ -11,7 +11,7 @@
   <a href="https://api.whatsapp.com/send?phone=5564984313343&text=Ol%C3%A1%2C%20Tbem%3F%20%3AD" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5564984313343&text=Ol%C3%A1%2C%20Tbem%3F%20%3AD"/></a>
 
-  <a href="https://www.facebook.com/matheus.diascara"/" alt="Facebook">
+  <a href="https://www.facebook.com/matheus.diascara/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/matheus.diascara"/></a>
 
   <a href="https://www.instagram.com/diazz.mat/" alt="Instagram">
