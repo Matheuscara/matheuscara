@@ -2,7 +2,7 @@
 
 <!-- > Faça uma breve aprensentação sobre você e a sua área. -->
 
-🔭 Flutter - .
+<!-- 🔭 Flutter - . -->
 
 💬 Sou um cara legal - De acordo com o manual dos humanos.
 
