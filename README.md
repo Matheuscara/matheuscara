@@ -3,6 +3,7 @@
  💬 Sou um cara legal - De acordo com o manual dos humanos.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscara)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheusdiascara/" alt="Linkedin">
