@@ -2,7 +2,6 @@
 ## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscara)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheusdiascara/" alt="Linkedin">
