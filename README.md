@@ -1,7 +1,6 @@
 
 ## 💜 Olá, meu nome é <strong>Matheus Dias!</strong> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscara&show_icons=true)
 
   ![proifle-3d-contrib](https://github.com/matheuscara/matheuscara/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
