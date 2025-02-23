@@ -1,5 +1,4 @@
 💜 Olá, eu sou Matheus Dias! 🚀
-<div align="center"> <img src="https://github.com/matheuscara/matheuscara/blob/main/profile-3d-contrib/profile-night-rainbow.svg" /> </div>
 🏆 Conquistas no GitHub
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=matheuscara&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div>
 👨‍💻 Sobre mim
