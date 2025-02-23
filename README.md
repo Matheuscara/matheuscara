@@ -29,5 +29,3 @@ GitHub Actions | Jenkins
 📱 WhatsApp: +55 64 984313343
 🐙 GitHub: @matheusCara
 💼 LinkedIn: linkedin.com/in/matheuscara
-
-Seja bem-vindo ao meu perfil! ⭐ Se curtir, não esqueça de deixar um ⭐ nos repositórios que achar interessantes!
