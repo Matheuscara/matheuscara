@@ -8,7 +8,7 @@ Construo **sistemas distribuídos, automação e ferramentas de dev** — de mic
 orientados a eventos a um homelab inteiro auto-hospedado. E gosto de deixar boa parte **open source**.
 
 <a href="mailto:matheus.dias.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/matheus-dias-cara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://devsplit.app"><img src="https://img.shields.io/badge/devsplit.app-2d3137?style=for-the-badge&logo=rust&logoColor=white"></a>
 
 </div>
@@ -124,6 +124,6 @@ Acredito que ferramenta boa se prova no código aberto. O que mantenho público:
 
 💬 **Aberto a conversas** sobre back-end, infra/DevOps, sistemas distribuídos e produtos open source.
 
-<a href="mailto:matheus.dias.dev@gmail.com">matheus.dias.dev@gmail.com</a>
+<a href="mailto:matheus.dias.dev@gmail.com">matheus.dias.dev@gmail.com</a> · <a href="https://www.linkedin.com/in/matheus-dias-cara/">LinkedIn</a>
 
 </div>
