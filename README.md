@@ -53,19 +53,6 @@ Acredito que ferramenta boa se prova no código aberto. O que mantenho público:
 
 ---
 
-## 💼 Experiência
-
-| Período | Empresa | Papel | Destaques |
-|---|---|---|---|
-| **2024 → hoje** | **RodoJunior** | Dev Pleno / Líder técnico | Sistema de liberação de caminhoneiros via **Pix**: microsserviços + **event-driven**, NestJS 10 + Angular 19, PostgreSQL, BullMQ/Redis/RabbitMQ, **Clean Arch + DDD**, SSE em tempo real, CI/CD (GitHub Actions/Jenkins), infra do zero (Docker Swarm, Portainer, AWS). Integrações Qualp/Google Maps/Sem Parar. |
-| **2022 – 2024** | **Banco Pan** | Eng. de Software Jr | Plataforma financeira de crédito: Angular 15 + NestJS, microsserviços, PostgreSQL/MongoDB, Cypress/Jest, SOLID/MVC. |
-| **2021 – 2022** | **Take Blip** | Analista de Sistemas | Chatbots + integrações via API: Node.js, .NET/C#, React, Amazon SNS, Power BI. |
-| **2021** | **ON GO Company** | Programador Jr | Full-stack p/ logística de insumos agrícolas: Node.js, .NET/C#, React. |
-
-🎓 Análise de Sistemas (Infnet) · Front+Back-end (Trybe)  ·  🗣️ Português nativo · Inglês B2
-
----
-
 ## 🛠️ Stack
 
 **Linguagens**
@@ -104,26 +91,3 @@ Acredito que ferramenta boa se prova no código aberto. O que mantenho público:
 **Observabilidade**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Matheuscara&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscara&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-<img src="profile-3d-contrib/profile-night-green.svg" alt="Contribuições 3D" width="860">
-
-</div>
-
----
-
-<div align="center">
-
-💬 **Aberto a conversas** sobre back-end, infra/DevOps, sistemas distribuídos e produtos open source.
-
-<a href="mailto:matheus.dias.dev@gmail.com">matheus.dias.dev@gmail.com</a> · <a href="https://www.linkedin.com/in/matheus-dias-cara/">LinkedIn</a>
-
-</div>
